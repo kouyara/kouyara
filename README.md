@@ -1,14 +1,14 @@
 <!-- プロフィールREADME -->
-<h1 align="center">👋 Hey, I'm Kouya Arakaki</h1>
-<h3 align="center">BodySharing × Machine Learning × XR Researcher</h3>
+<h1 align="center">I'm Kouya Arakaki</h1>
+<h3 align="center">Software Engineer, HCI Researcher</h3>
 
 ---
 
-### 🧠 About Me
-- 🎓 Undergraduate researcher exploring **BodySharing** and **muscle displacement sensing (FirstVR)**
-- 🧩 Focused on **improving calibration accuracy** using **LSTM / RNN / GRU / SVR**
-- 💡 Passionate about **XR interfaces**, **neural computation**, and **real-time feedback systems**
-- 🌱 Currently learning **Rust**, **Go**, and **WebAssembly** for high-performance web apps
+### About Me
+- 琉球大学 大学院 理工学研究科で情報工学を専攻しています。  
+　ソフトウェアエンジニアとして、フロントエンドからバックエンドまで幅広く興味を持ち、日々新しい技術を学んでいます。  
+- I’m a master’s student at the Graduate School of Engineering and Science, University of the Ryukyus, majoring in Computer Science.  
+　As a software engineer, I’m passionate about learning across the full stack—from front-end to back-end development.
 
 ---
 
