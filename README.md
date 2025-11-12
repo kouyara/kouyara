@@ -16,7 +16,7 @@
 
 #### Programming & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,unity,cs,js,react,flask,postgresql,tensorflow,pytorch,arduino,git,github&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,cs,js,ts,dart,react,nextjs,flask,fastapi,flutter,unity,postgresql,mysql,git,github&perline=7" />
 </p>
 
 #### ⚙️ Machine Learning / Data
