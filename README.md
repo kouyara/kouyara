@@ -43,9 +43,3 @@
   <a href="https://github.com/kouyara"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
   <a href="https://kouya.st.ie.u-ryukyu.ac.jp"><img src="https://img.shields.io/badge/Portfolio-4285F4?logo=google-chrome&logoColor=white" /></a>
 </p>
-
----
-
-<p align="center">
-  <i>“Bridging the gap between physical motion and virtual experience.”</i>
-</p>
