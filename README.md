@@ -29,10 +29,6 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kouyara&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=kouyara&label=Profile%20views&color=6aa6f8&style=for-the-badge" />
 </p>
 
