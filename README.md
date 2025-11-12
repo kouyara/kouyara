@@ -24,16 +24,16 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kouyara&label=Profile%20views&color=6aa6f8&style=for-the-badge" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kouyara&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kouyara&show_icons=true&theme=tokyonight" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouyara&layout=compact&theme=tokyonight" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kouyara&label=Profile%20views&color=6aa6f8&style=for-the-badge" />
 </p>
 
 ---
