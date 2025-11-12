@@ -1,5 +1,5 @@
 <!-- プロフィールREADME -->
-<h1 align="center">I'm Kouya Arakaki</h1>
+<h1 align="center">👋 Hey, I'm Kouya Arakaki</h1>
 <h3 align="center">Software Engineer, HCI Researcher</h3>
 
 ---
@@ -12,9 +12,9 @@
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
-#### 🧑‍💻 Programming & Tools
+#### Programming & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,unity,cs,js,react,flask,postgresql,tensorflow,pytorch,arduino,git,github&perline=6" />
 </p>
@@ -27,7 +27,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arakaki-kouya&show_icons=true&theme=tokyonight" height="160" />
@@ -36,7 +36,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description | Tech |
 |----------|--------------|------|
@@ -46,7 +46,7 @@
 
 ---
 
-### 🌍 Connect With Me
+### Connect With Me
 <p align="center">
   <a href="https://github.com/arakaki-kouya"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
   <a href="https://your-portfolio-site.com"><img src="https://img.shields.io/badge/Portfolio-4285F4?logo=google-chrome&logoColor=white" /></a>
