@@ -30,21 +30,10 @@
 
 ---
 
-### Featured Projects
-
-| Project | Description | Tech |
-|----------|--------------|------|
-| 🧩 **Muscle Calibration ML** | Predicting grip force from 14-channel muscle displacement data | Python, TensorFlow, ONNX, Unity |
-| 🌐 **Payment Finder Map** | Web app showing stores' payment methods on Google Maps | Flask, JavaScript, Google Maps API |
-| 🧠 **BodySharing Prototype** | Real-time muscle signal visualization in XR | Unity, FirstVR, Bluetooth (ArduinoBLE) |
-
----
-
 ### Connect With Me
 <p align="center">
   <a href="https://github.com/kouyara"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
-  <a href="https://your-portfolio-site.com"><img src="https://img.shields.io/badge/Portfolio-4285F4?logo=google-chrome&logoColor=white" /></a>
-  <a href="https://twitter.com/your_twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
+  <a href="https://kouya.st.ie.u-ryukyu.ac.jp"><img src="https://img.shields.io/badge/Portfolio-4285F4?logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
