@@ -24,6 +24,14 @@
 ### GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=6aa6f8&style=for-the-badge" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kouyara&show_icons=true&theme=tokyonight" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouyara&layout=compact&theme=tokyonight" height="160" />
 </p>
