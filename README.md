@@ -19,19 +19,13 @@
   <img src="https://skillicons.dev/icons?i=python,cs,js,ts,dart,react,nextjs,flask,fastapi,flutter,unity,postgresql,mysql,git,github&perline=7" />
 </p>
 
-#### ⚙️ Machine Learning / Data
-- Time-series analysis with **LSTM / RNN / GRU**
-- Model deployment with **ONNX + Unity Barracuda**
-- Async data scraping with **BeautifulSoup + asyncio**
-- Database management with **PostgreSQL**
-
 ---
 
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arakaki-kouya&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arakaki-kouya&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kouyara&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouyara&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 ---
@@ -48,7 +42,7 @@
 
 ### Connect With Me
 <p align="center">
-  <a href="https://github.com/arakaki-kouya"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
+  <a href="https://github.com/kouyara"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
   <a href="https://your-portfolio-site.com"><img src="https://img.shields.io/badge/Portfolio-4285F4?logo=google-chrome&logoColor=white" /></a>
   <a href="https://twitter.com/your_twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
 </p>
